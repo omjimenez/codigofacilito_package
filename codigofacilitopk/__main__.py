@@ -1,3 +1,4 @@
+import logging
 from codigofacilitopk.workshops import unreleased
 
 if __name__ == '__main__':
@@ -5,4 +6,4 @@ if __name__ == '__main__':
 
     print(workshops)
 
-    print('>> Estamos iniciando la ejecucion del paquete.')
+    print('>> Estamos iniciando la ejecucion del paquete .')
